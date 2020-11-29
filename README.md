@@ -1,2 +1,1 @@
-#myapp
-sample app
+# My App Sample 
